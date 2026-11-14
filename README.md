@@ -214,4 +214,4 @@ Wireshark is offered as a full free version with all features and updates includ
 Download Wireshark today and take control of your network analysis!
 
 ---
-**Last updated:** 2026-11-13 18:23:53 UTC
+**Last updated:** 2026-11-14 00:11:20 UTC
